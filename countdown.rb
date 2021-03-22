@@ -1,9 +1,9 @@
 def countdown(number)
 #  counter = 10 
   
-  while number > 0
+  while counter > 0
     puts "#{number} SECOND(S)!"
-    integer -= 1 
+    counter -= 1 
   end
 end
 
